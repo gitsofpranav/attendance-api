@@ -8,6 +8,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pytest_cache/
+scratch/
 
 # Environment files and secrets
 .env
